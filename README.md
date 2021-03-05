@@ -51,15 +51,18 @@ Our next step is to add the custom token to MetaMask.
 
 1. You will need to open up the full website version of MetaMask, you can do that by clicking ont the chrome extension, click the three dots that will show a dropdown. Then select "expand view" and it should take you to your account. That will show you your current assets. 
 
-
+![MetaMask Assets](./Images/metamask_assets.png) 
 
 2. Next step, is to select "Add Token" and it will give two options. Next select "Custom Token" and fill your Token Contract Address in. Once you enter the address, the symbol and decimals will pre-fill. 
 
+![MetaMask Custom Token](./Images/metamask_customtoken.png) 
 
 3. Once you select next, the next page should show a confirmation page to ensure your token and the balance. If the information is correct, you can select "Add Tokens" and it will show you that your new token has been added. 
 
+![MetaMask Custom Token Add](./Images/metamask_tokenadd.png) 
 
 4. You can see the new custom token added under your Assets!
 
+![MetaMask New Asset](./Images/metamask_newasset.png) 
 
 
