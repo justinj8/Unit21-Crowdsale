@@ -46,3 +46,20 @@ Puppercoin.sol smart contract was made to create the custom ERC20 token. This sm
 Once we successfully completed all the steps above. We move on to adding our custom coin to MetaMask!
 
 ### Adding JJtoken to MetaMask
+
+Our next step is to add the custom token to MetaMask.
+
+1. You will need to open up the full website version of MetaMask, you can do that by clicking ont the chrome extension, click the three dots that will show a dropdown. Then select "expand view" and it should take you to your account. That will show you your current assets. 
+
+
+
+2. Next step, is to select "Add Token" and it will give two options. Next select "Custom Token" and fill your Token Contract Address in. Once you enter the address, the symbol and decimals will pre-fill. 
+
+
+3. Once you select next, the next page should show a confirmation page to ensure your token and the balance. If the information is correct, you can select "Add Tokens" and it will show you that your new token has been added. 
+
+
+4. You can see the new custom token added under your Assets!
+
+
+
