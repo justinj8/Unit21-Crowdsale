@@ -65,4 +65,4 @@ Our next step is to add the custom token to MetaMask.
 
 ![MetaMask New Asset](./Images/metamask_newasset.png) 
 
-
+## Congrats you have minted your own custom Token and added it as an asset!
