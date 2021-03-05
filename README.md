@@ -29,16 +29,19 @@ Puppercoin.sol smart contract was made to create the custom ERC20 token. This sm
 
 1. Before you compile the smart contract should look like the following:
 
-
+![Puppercoin ERC20](./Images/ERC20_puppercoin.png) 
 
 2. Once compiling is successfully completed, you must start to transact. Before you hit transact, you must change the environment to InjectedWeb3 to confirm the LocalTestNetwork within MetaMask. Under deploy, you will need to put in place the name of your token, symbol, and the initial supply amount. Then you can select transact. It should look like this:
 
-
+![Puppercoin ERC20 pre-deploy](./Images/puppercoin_pre_deploy.png) 
 
 3. Once you hit transact it should start to initialize the confirmation with MetaMask:
 
+![Puppercoin ERC20 Confirm](./Images/puppercoin_confirm.png) 
 
 4. Once successfully completed the transaction on MetaMask, you can check Ganache to see the transaction: 
+
+![Puppercoin ERC20 Ganache](./Images/puppercoin_ganache.png) 
 
 Once we successfully completed all the steps above. We move on to adding our custom coin to MetaMask!
 
